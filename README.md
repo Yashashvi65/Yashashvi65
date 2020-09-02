@@ -9,8 +9,7 @@
 ## 👯 I’m looking to collaborate on ...Machine Learning projects
 ## Contact
 <a href="https://www.linkedin.com/in/yashashvi65/">
-<img src="https://camo.githubusercontent.com/2be7128f80f514eaa332a60773fac581dda8cada/68747470733a2f2f747365312e6d6d2e62696e672e6e65742f74683f69643d4f49502e4b7977334e6d314e2d4341437139455a6f304134504148614861267069643d41706926503d3026773d33303026683d333030" width="40" height="40">
-</a>
+<img src="https://camo.githubusercontent.com/2be7128f80f514eaa332a60773fac581dda8cada/68747470733a2f2f747365312e6d6d2e62696e672e6e65742f74683f69643d4f49502e4b7977334e6d314e2d4341437139455a6f304134504148614861267069643d41706926503d3026773d33303026683d333030" width="40" height="40">   </a>
 <a href="https://www.instagram.com/yaashashvi/">
 <img src="http://badtothebonebbq.com/images/Insta_logo.png" width="40" height="40">
 </a>
