@@ -10,5 +10,5 @@
 <img src="https://camo.githubusercontent.com/2be7128f80f514eaa332a60773fac581dda8cada/68747470733a2f2f747365312e6d6d2e62696e672e6e65742f74683f69643d4f49502e4b7977334e6d314e2d4341437139455a6f304134504148614861267069643d41706926503d3026773d33303026683d333030" width="40" height="40">
 </a>
 <a href="https://www.instagram.com/yaashashvi/">
-<img src="https://www.edigitalagency.com.au/wp-content/uploads/new-instagram-logo-png-transparent.png" width="40" height="40">
+<img src="https://i2.wp.com/www.lift-off-festivals.com/wp-content/uploads/2018/06/insta-logo.jpg?ssl=1" width="40" height="40">
 </a>
