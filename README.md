@@ -1,6 +1,6 @@
 ### Hi Innovator<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40" height="40">
 
-<img src="https://camo.githubusercontent.com/00b7ae13c82bf907556f1184eb865122a41ea7c3/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" width="200">    <img src="http://cdn.onlinewebfonts.com/svg/img_532572.svg" width="500">
+<img src="https://camo.githubusercontent.com/00b7ae13c82bf907556f1184eb865122a41ea7c3/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" width="200">    <img src="http://cdn.onlinewebfonts.com/svg/img_532572.svg" width="100">
 
 
 ## 🔭 I’m currently working on ... Machine Learning and Web Development
