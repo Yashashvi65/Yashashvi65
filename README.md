@@ -1,6 +1,6 @@
 ### Hi Innovator<img src="https://github.com/rahul799/rahul799/raw/master/Hi.gif" width="80" height="80">
 
-<img src="https://camo.githubusercontent.com/00b7ae13c82bf907556f1184eb865122a41ea7c3/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966" width="150">    <img src="https://gifimage.net/wp-content/uploads/2017/11/gif-robot-9.gif" width="130"> <img src="https://camo.githubusercontent.com/7988dfc21182f57bb253a6e246141f5a3e2cf10e/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="150"> <img src="https://media.tenor.com/images/3d8910b08a8053d27e606f12d45c6bb2/tenor.gif" width="85">
+<img src="https://gifimage.net/wp-content/uploads/2017/11/gif-robot-9.gif" width="150">    <img src="https://camo.githubusercontent.com/00b7ae13c82bf907556f1184eb865122a41ea7c3/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966 " width="130"> <img src="https://camo.githubusercontent.com/7988dfc21182f57bb253a6e246141f5a3e2cf10e/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="150"> <img src="https://media.tenor.com/images/3d8910b08a8053d27e606f12d45c6bb2/tenor.gif" width="85">
 
 
 ## 🔭 I’m currently working on ... Machine Learning and Web Development
