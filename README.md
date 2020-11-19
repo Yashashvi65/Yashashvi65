@@ -13,3 +13,7 @@
 <a href="https://www.instagram.com/yaashashvi/">
 <img src="http://badtothebonebbq.com/images/Insta_logo.png" width="40" height="40">
 </a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Yashashvi65/count.svg" />
+ </p>
