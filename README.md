@@ -18,6 +18,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Yashashvi65/count.svg" />
  </p>
- <div><p>My profile overview: </p></div>
+ <div><p align="center">My profile overview: </p></div>
 
 ![Yashashvi's github stats](https://github-readme-stats.vercel.app/api?username=Yashashvi65&show_icons=true)
