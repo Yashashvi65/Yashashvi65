@@ -1,4 +1,4 @@
-![](https://github.com/Yashashvi65/Yashashvi65/raw/master/animated-name.gif)
+<h1>Bonjour. I'm Yashashvi & I ❤️ to code.</h1>
 <img src="https://dbdzm869oupei.cloudfront.net/img/sticker/preview/23937.png" height="50" align="center"></img>
 
 <img src="https://cdn.dribbble.com/users/690291/screenshots/3507754/untitled-1.gif" height="120">    <img src="https://camo.githubusercontent.com/00b7ae13c82bf907556f1184eb865122a41ea7c3/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d74686f6d61732e676966 " width="120"> <img src="https://camo.githubusercontent.com/7988dfc21182f57bb253a6e246141f5a3e2cf10e/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f6461667470756e6b746f6361742d6775792e676966" width="120"> <img src="https://cdn.dribbble.com/users/690291/screenshots/3507754/untitled-1.gif" height="120">
