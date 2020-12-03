@@ -27,7 +27,7 @@
 <a href="https://www.instagram.com/yashashvi.singh.bhadauria/">
 <img src="https://img.shields.io/badge/<handle>%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://www.hackerrank.com/yashashvi65"><img src="<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href="https://www.hackerrank.com/yashashvi65"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Yashashvi65/count.svg" />
