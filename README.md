@@ -5,9 +5,7 @@
 
 <h3 align="center">Machine Learning and Deep Learning | Competitive Programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashashvi65&label=Profile%20views&color=0e75b6&style=flat" alt="yashashvi65" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashashvi65" alt="yashashvi65" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning Development**
 
