@@ -3,7 +3,6 @@
 
 
 
-<h3 align="center">Machine Learning and Deep Learning | Competitive Programmer</h3>
 
 
 
