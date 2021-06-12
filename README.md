@@ -6,6 +6,6 @@
 <br />
 
 [![Mail Badge](https://img.shields.io/badge/-yashashvibhadauria6555-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:yashashvibhadauria6555@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-Yashashvi65-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Yashashvi65/) [![Mail Badge](https://img.shields.io/badge/@yashashvi10x-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/yashashvi10x/) [![Mail Badge](https://img.shields.io/badge/@geekydev.in-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/geekydev.in/)
-<br />
+<br /><br />
 ![](https://visitor-badge.glitch.me/badge?page_id=Yashashvi65.Yashashvi65)
 
